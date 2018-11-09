@@ -1,0 +1,4 @@
+/home/ideras/classes/Compilers/source_code/Compiladores_II/Examen1_P42018/parser/tests/build/CMakeFiles/rebuild_cache.dir
+/home/ideras/classes/Compilers/source_code/Compiladores_II/Examen1_P42018/parser/tests/build/CMakeFiles/edit_cache.dir
+/home/ideras/classes/Compilers/source_code/Compiladores_II/Examen1_P42018/parser/tests/build/CMakeFiles/test.dir
+/home/ideras/classes/Compilers/source_code/Compiladores_II/Examen1_P42018/parser/tests/build/CMakeFiles/test_parser.dir
